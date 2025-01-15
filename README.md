@@ -4,7 +4,7 @@
 - I am Derrick Novak, a Computer Science Senior studying at Kennesaw State University.
 - I am most proficient in backend development using Java.
 
-⚽ Outside of school and tech, I enjoy playing **soccer**, **weight lifting**, **running**, and **dancing**.
+⚽ Outside of school and tech, I enjoy playing **soccer**, **weight lifting**, and **running**
 <!--
 **DN8899/DN8899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
